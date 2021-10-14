@@ -1,9 +1,13 @@
 {
   "workbench.colorCustomizations": {
-    "tab.activeBackground": "#06063b",
+    "tab.activeBackground": "#03257b",
     "tab.activeForeground": "#fff",
-    "activityBar.background": "#372B29",
-    "titleBar.activeBackground": "#4D3C39",
+    "activityBar.background": "#03257b",
+    "titleBar.activeBackground": "#0284c7",
     "titleBar.activeForeground": "#FBFAFA"
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
   }
 }
