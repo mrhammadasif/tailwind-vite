@@ -9,3 +9,7 @@
 ## Run your Server
 
 - `pnpm dev`
+
+## Deploy to gh-pages
+
+- `pnpm deploy`
