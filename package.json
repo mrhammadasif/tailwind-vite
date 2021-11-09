@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "deploy": "pnpm build && pnpm gh-pages -d dist",
-    "dev": "vite",
+    "dev": "vite --open",
     "build": "vite build",
     "serve": "vite preview"
   },
